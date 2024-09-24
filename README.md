@@ -27,7 +27,10 @@ The primary tasks for this data analytics project were:
 A comprehensive report and dashboard was created using the provided data, focusing on financial statistics and hotel performance.
 
 
-- **Report**
+- **Live Power BI Dashboard**
+ [View Live Power BI Dashboard .](https://github.com/suhaib-codes/Hospitality-Domain-Data-Analytics-Project/blob/main/Final%20Dashbord/Data%20analysis%20BI%20project.pbix)
+
+- **Report Image**
  [View Report here.](https://github.com/suhaib-codes/Hospitality-Domain-Data-Analytics-Project/blob/main/resources/overall_view.png)
 
 
@@ -49,6 +52,6 @@ Focused on financial performance with similar filters, excluding performance met
 - **By City**: Revenue and rate comparisons among cities where AtliQ Grands operates.
 
 ## Acknowledgments
-- Codebasics for the challenge opportunity.
+- Codebasics for the challenge opportunity.  
 
 ## Thank You!
