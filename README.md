@@ -28,7 +28,7 @@ A comprehensive report and dashboard was created using the provided data, focusi
 
 
 - **Report**
- [View Report here.]([https://github.com/Mohit209e/Hospitality-Domain-Data-Analytics-Project/blob/6b635e4a055e93ee3698e6edb2f2ca93ae882bee/Hospitality%20Domain%20Data%20Analysis%20Project.docx](https://github.com/suhaib-codes/Hospitality-Domain-Data-Analytics-Project/blob/main/resources/overall_view.png))
+ [View Report here.](https://github.com/suhaib-codes/Hospitality-Domain-Data-Analytics-Project/blob/main/resources/overall_view.png)
 
 
 ### Key Financial Metrics
